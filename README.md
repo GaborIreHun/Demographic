@@ -1,4 +1,4 @@
-# Demograpich - Data Visualization project
+# Demographic - Data Visualization project
 
 Requirements
 I was required to use the dataset “consolidated_coin_data.csv” and then perform the following analysis:
